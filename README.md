@@ -7,6 +7,5 @@ There's a CIA release in the /release directory. Enjoy.
 * I don't know. 
 
 ## Credits
-[Dok3](https://github.com/d0k3) - [Decrypt9](https://github.com/d0k3/Decrypt9WIP)
-
-  FatFS library + Safe unmounting code (Basically, everything)
+###[Dok3](https://github.com/d0k3) - [Decrypt9](https://github.com/d0k3/Decrypt9WIP)
+FatFS library + Safe unmounting code (Basically, everything)
